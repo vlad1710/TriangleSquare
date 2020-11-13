@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Triangle Square</string>
+
+    <string name="right_triangle">Right triangle</string>
+    <string name="equilateral_triangle">Equilateral triangle</string>
+    <string name="isosceles_triangle">Isosceles triangle</string>
+    <string name="versatile_triangle">Versatile triangle</string>
+
+    <string name="result">Result: </string>
+    <string name="calculate">Calculate</string>
+</resources>
